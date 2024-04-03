@@ -1,0 +1,41 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* Headings */
+.heading{
+    font-size: 1.5rem;
+}
+.image{
+    width: 22%;
+    height: 47%;
+    right: 125px;
+}
+
+.image:hover .me{
+    left: 70%;
+}
+.icons ion-icon{
+    font-size: 29px;   
+}
+
+/* About */
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+
+#pic img{
+    width: 200px;
+    height: 300px;
+}
+#intro h2{
+    text-align: center;
+    padding: 10px;
+}
