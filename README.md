@@ -1,1 +1,1 @@
-#Here is my portfolio website, thank you for visitig.
+#Here is my portfolio website, thank you for visiting.
